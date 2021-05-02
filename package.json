@@ -1,0 +1,14 @@
+{
+  "name": "proyectonuevo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src/index.html"
+  },
+  "author": "flgs",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
